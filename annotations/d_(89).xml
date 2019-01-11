@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>d_(89).png</filename>
+	<path>C:\Users\sahuang\Desktop\dragon_detection\images\d_(89).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>728</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dragon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>210</ymin>
+			<xmax>421</xmax>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+</annotation>
